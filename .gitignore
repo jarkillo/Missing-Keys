@@ -1,4 +1,4 @@
-_MAXOSX
+__MACOSX
 catboost_info
 heart_disease_data
 __init__.py
@@ -10,3 +10,4 @@ resultados_modelos_ordenados.csv
 resultados_modelos.csv
 uci_data_cleaned.csv
 uci_data_imputado.csv
+heart_disease_data
